@@ -1,3 +1,5 @@
+![Screenshot](https://github.com/user-attachments/assets/ece38611-19ac-4964-9129-3a902ccdd75a)
+
 Dev Detective is a feature-rich web application designed to provide comprehensive details about GitHub users by simply entering their GitHub username. The app is built using the GitHub API, along with HTML, CSS, and JavaScript, enabling fast and seamless access to essential information about any public GitHub profile.
 
 Key Features:
